@@ -1,0 +1,20 @@
+{
+    "authorizationCode": "034496",
+    "cardType": "MC",
+    "referenceNumber": "021018029542",
+    "responseCode": "00",
+    "responseMessage": "APPROVAL",
+    "transactionId": "1330125266",
+    "maskedCardNumber": "516488******9435",
+    "declineReasonCode": 0,
+    "certificateStatus": 1,
+    "modelErrors": {},
+    "success": true,
+    "paymentServiceTimeout": false
+}
+
+
+
+
+
+
